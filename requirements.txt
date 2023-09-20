@@ -1,0 +1,4 @@
+selenium==3.14.0
+bs4==0.0.1
+pandas
+chromedriver-autoinstaller
